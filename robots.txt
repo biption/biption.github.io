@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://biption.github.io/sitemap.html.gz
+Sitemap: https://biption.github.io/app/sitemap.html.gz
+Sitemap: https://biption.github.io/assets/sitemap.html.gz
+Sitemap: https://biption.github.io/css/sitemap.html.gz
+Sitemap: https://biption.github.io/includes/sitemap.html.gz
+Sitemap: https://biption.github.io/item/sitemap.html.gz
+Sitemap: https://biption.github.io/src/sitemap.html.gz
